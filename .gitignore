@@ -1,0 +1,19 @@
+# Compiled object / binary files
+*.exe
+*.o
+*.obj
+*.class
+*.dll
+*.so
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+Desktop.ini
