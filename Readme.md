@@ -4,12 +4,12 @@ Repositori Tugas Praktikum 1 (TP1) mata kuliah Desain dan Pemrograman Berorienta
 
 ---
 
-## 📜 JANJI
+##  JANJI
 > Saya **Riza Wahyu Nugraha** dengan **NIM 2511421** mengerjakan **Tugas Praktikum 1** dalam mata kuliah **Desain dan Pemrograman Berorientasi Objek** untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ---
 
-## 🎬 DESAIN PROGRAM & KELAS
+##  DESAIN PROGRAM & KELAS
 
 Program ini merupakan sistem manajemen data film bioskop berbasis pemrograman berorientasi objek (*Object-Oriented Programming*) yang diimplementasikan dalam 4 bahasa pemrograman: **C++**, **Java**, **Python**, dan **PHP**.
 
@@ -39,7 +39,7 @@ Berikut adalah visualisasi rancangan class diagram yang digunakan pada sistem in
 
 ---
 
-## ⚡️ FITUR UTAMA
+##  FITUR UTAMA
 
 1. **Tambah Data (Create):** Menambahkan data film baru ke dalam sistem setelah memvalidasi bahwa ID belum pernah digunakan sebelumnya.
 2. **Tampilkan Data (Read):** Menampilkan seluruh daftar film yang tersimpan dalam format tabel atau daftar terstruktur.
@@ -49,7 +49,7 @@ Berikut adalah visualisasi rancangan class diagram yang digunakan pada sistem in
 
 ---
 
-## 🛑 ALUR KODE & ERROR HANDLING
+##  ALUR KODE & ERROR HANDLING
 
 Setiap program dilengkapi mekanisme validasi input dan penanganan kesalahan (*error handling*) di setiap fungsinya:
 - **Validasi ID Unik:** Mencegah penambahan data baru apabila ID yang diinput sudah terdaftar dalam sistem (`"ID sudah digunakan."`).
@@ -60,11 +60,11 @@ Setiap program dilengkapi mekanisme validasi input dan penanganan kesalahan (*er
 
 ---
 
-## 📸 DOKUMENTASI OUTPUT PROGRAM
+##  DOKUMENTASI OUTPUT PROGRAM
 
 Berikut adalah dokumentasi hasil uji coba eksekusi program di ke-4 bahasa pemrograman:
 
-### 🤟🏻 1. Output Program C++ (CLI)
+###  1. Output Program C++ (CLI)
 
 #### a. Menambahkan Data Film
 <img src="Dokumentasi/CPP/01_tambah_data.png" alt="C++ Tambah Data" width="750" />
@@ -86,7 +86,7 @@ Berikut adalah dokumentasi hasil uji coba eksekusi program di ke-4 bahasa pemrog
 
 ---
 
-### ☕️ 2. Output Program Java (CLI)
+###  2. Output Program Java (CLI)
 
 #### a. Menambahkan Data Film
 <img src="Dokumentasi/Java/01_tambah_data.png" alt="Java Tambah Data" width="750" />
@@ -108,7 +108,7 @@ Berikut adalah dokumentasi hasil uji coba eksekusi program di ke-4 bahasa pemrog
 
 ---
 
-### 🐍 3. Output Program Python (CLI)
+###  3. Output Program Python (CLI)
 
 #### a. Menambahkan Data Film
 <img src="Dokumentasi/Python/01_tambah_data.png" alt="Python Tambah Data" width="750" />
@@ -130,7 +130,7 @@ Berikut adalah dokumentasi hasil uji coba eksekusi program di ke-4 bahasa pemrog
 
 ---
 
-### 🐘 4. Output Program PHP (Web Application)
+###  4. Output Program PHP (Web Application)
 
 #### a. Menambahkan Data Film & Upload Poster
 <img src="Dokumentasi/PHP/01_tambah_data.png" alt="PHP Tambah Data" width="750" />
@@ -152,7 +152,7 @@ Berikut adalah dokumentasi hasil uji coba eksekusi program di ke-4 bahasa pemrog
 
 ---
 
-## 📁 STRUKTUR REPOSITORI
+##  STRUKTUR REPOSITORI
 
 ```text
 TP1DPBO2526C1/
@@ -181,7 +181,7 @@ TP1DPBO2526C1/
 
 ---
 
-## 🚀 CARA MENJALANKAN PROGRAM
+##  CARA MENJALANKAN PROGRAM
 
 Buka terminal pada direktori folder masing-masing bahasa:
 
