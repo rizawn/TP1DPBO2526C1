@@ -67,88 +67,88 @@ Berikut adalah dokumentasi hasil uji coba eksekusi program di ke-4 bahasa pemrog
 ###  1. Output Program C++ (CLI)
 
 #### a. Menambahkan Data Film
-<img src="Dokumentasi/CPP/01_tambah_data.png" alt="C++ Tambah Data" width="750" />
+<img src="Dokumentasi/CPP/01_tambah_data.png?raw=true" alt="C++ Tambah Data" />
 
 #### b. Menampilkan Seluruh Data
-<img src="Dokumentasi/CPP/02_tampilkan_data.png" alt="C++ Tampilkan Data" width="750" />
+<img src="Dokumentasi/CPP/02_tampilkan_data.png?raw=true" alt="C++ Tampilkan Data" />
 
 #### c. Memperbarui Data (Update)
-<img src="Dokumentasi/CPP/03_update_data.png" alt="C++ Update Data" width="750" />
+<img src="Dokumentasi/CPP/03_update_data.png?raw=true" alt="C++ Update Data" />
 
 #### d. Mencari Data (Search)
-<img src="Dokumentasi/CPP/04_cari_data.png" alt="C++ Cari Data" width="750" />
+<img src="Dokumentasi/CPP/04_cari_data.png?raw=true" alt="C++ Cari Data" />
 
 #### e. Menghapus Data (Delete)
-<img src="Dokumentasi/CPP/05_hapus_data.png" alt="C++ Hapus Data" width="750" />
+<img src="Dokumentasi/CPP/05_hapus_data.png?raw=true" alt="C++ Hapus Data" />
 
 #### f. Error Handling & Validasi Input
-<img src="Dokumentasi/CPP/06_error_handling.png" alt="C++ Error Handling" width="750" />
+<img src="Dokumentasi/CPP/06_error_handling.png?raw=true" alt="C++ Error Handling" />
 
 ---
 
 ###  2. Output Program Java (CLI)
 
 #### a. Menambahkan Data Film
-<img src="Dokumentasi/Java/01_tambah_data.png" alt="Java Tambah Data" width="750" />
+<img src="Dokumentasi/Java/01_tambah_data.png?raw=true" alt="Java Tambah Data" />
 
 #### b. Menampilkan Seluruh Data
-<img src="Dokumentasi/Java/02_tampilkan_data.png" alt="Java Tampilkan Data" width="750" />
+<img src="Dokumentasi/Java/02_tampilkan_data.png?raw=true" alt="Java Tampilkan Data" />
 
 #### c. Memperbarui Data (Update)
-<img src="Dokumentasi/Java/03_update_data.png" alt="Java Update Data" width="750" />
+<img src="Dokumentasi/Java/03_update_data.png?raw=true" alt="Java Update Data" />
 
 #### d. Mencari Data (Search)
-<img src="Dokumentasi/Java/04_cari_data.png" alt="Java Cari Data" width="750" />
+<img src="Dokumentasi/Java/04_cari_data.png?raw=true" alt="Java Cari Data" />
 
 #### e. Menghapus Data (Delete)
-<img src="Dokumentasi/Java/05_hapus_data.png" alt="Java Hapus Data" width="750" />
+<img src="Dokumentasi/Java/05_hapus_data.png?raw=true" alt="Java Hapus Data" />
 
 #### f. Error Handling & Validasi Input
-<img src="Dokumentasi/Java/06_error_handling.png" alt="Java Error Handling" width="750" />
+<img src="Dokumentasi/Java/06_error_handling.png?raw=true" alt="Java Error Handling" />
 
 ---
 
 ###  3. Output Program Python (CLI)
 
 #### a. Menambahkan Data Film
-<img src="Dokumentasi/Python/01_tambah_data.png" alt="Python Tambah Data" width="750" />
+<img src="Dokumentasi/Python/01_tambah_data.png?raw=true" alt="Python Tambah Data" />
 
 #### b. Menampilkan Seluruh Data
-<img src="Dokumentasi/Python/02_tampilkan_data.png" alt="Python Tampilkan Data" width="750" />
+<img src="Dokumentasi/Python/02_tampilkan_data.png?raw=true" alt="Python Tampilkan Data" />
 
 #### c. Memperbarui Data (Update)
-<img src="Dokumentasi/Python/03_update_data.png" alt="Python Update Data" width="750" />
+<img src="Dokumentasi/Python/03_update_data.png?raw=true" alt="Python Update Data" />
 
 #### d. Mencari Data (Search)
-<img src="Dokumentasi/Python/04_cari_data.png" alt="Python Cari Data" width="750" />
+<img src="Dokumentasi/Python/04_cari_data.png?raw=true" alt="Python Cari Data" />
 
 #### e. Menghapus Data (Delete)
-<img src="Dokumentasi/Python/05_hapus_data.png" alt="Python Hapus Data" width="750" />
+<img src="Dokumentasi/Python/05_hapus_data.png?raw=true" alt="Python Hapus Data" />
 
 #### f. Error Handling & Validasi Input
-<img src="Dokumentasi/Python/06_error_handling.png" alt="Python Error Handling" width="750" />
+<img src="Dokumentasi/Python/06_error_handling.png?raw=true" alt="Python Error Handling" />
 
 ---
 
 ###  4. Output Program PHP (Web Application)
 
 #### a. Menambahkan Data Film & Upload Poster
-<img src="Dokumentasi/PHP/01_tambah_data.png" alt="PHP Tambah Data" width="750" />
+<img src="Dokumentasi/PHP/01_tambah_data.png?raw=true" alt="PHP Tambah Data" width="750" />
 
 #### b. Menampilkan Seluruh Data Tabel dengan Poster
-<img src="Dokumentasi/PHP/02_tampilkan_data.png" alt="PHP Tampilkan Data" width="750" />
+<img src="Dokumentasi/PHP/02_tampilkan_data.png?raw=true" alt="PHP Tampilkan Data" width="750" />
 
 #### c. Memperbarui Data (Form Edit Film)
-<img src="Dokumentasi/PHP/03_update_data.png" alt="PHP Update Data" width="750" />
+<img src="Dokumentasi/PHP/03_update_data.png?raw=true" alt="PHP Update Data" width="750" />
 
 #### d. Mencari Data Film Berdasarkan ID
-<img src="Dokumentasi/PHP/04_cari_data.png" alt="PHP Cari Data" width="750" />
+<img src="Dokumentasi/PHP/04_cari_data.png?raw=true" alt="PHP Cari Data" width="750" />
 
 #### e. Menghapus Data Film
-<img src="Dokumentasi/PHP/05_hapus_data.png" alt="PHP Hapus Data" width="750" />
+<img src="Dokumentasi/PHP/05_hapus_data.png?raw=true" alt="PHP Hapus Data" width="750" />
 
 #### f. Error Handling (ID Duplikat & Validasi Input)
-<img src="Dokumentasi/PHP/06_error_handling.png" alt="PHP Error Handling" width="750" />
+<img src="Dokumentasi/PHP/06_error_handling.png?raw=true" alt="PHP Error Handling" width="750" />
 
 ---
 
